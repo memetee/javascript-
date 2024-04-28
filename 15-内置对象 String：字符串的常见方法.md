@@ -71,7 +71,7 @@ console.log(str.lastIndexOf('a'));
 
 打印结果：
 
-![](http://img.smyhvae.com/20180202_1420.png)
+![](assets/15-内置对象 String：字符串的常见方法/20180202_1420.png)
 
 举例 2：（查找字符串）
 
@@ -487,7 +487,7 @@ console.log(str3.split('许')); // 同上
 
 打印结果：（都是数组）
 
-![](http://img.smyhvae.com/20200611_2050.png)
+![](assets/15-内置对象 String：字符串的常见方法/20200611_2050.png)
 
 
 
@@ -567,7 +567,7 @@ console.log(str.trim().length);
 
 打印结果：
 
-![](http://img.smyhvae.com/20200607_2132.png)
+![](assets/15-内置对象 String：字符串的常见方法/20200607_2132.png)
 
 ## 大小写转换
 
@@ -612,7 +612,7 @@ console.log(str.link('http://www.baidu.com'));
 console.log(str.bold());
 ```
 
-![](http://img.smyhvae.com/20180202_1536.png)
+![](assets/15-内置对象 String：字符串的常见方法/20180202_1536.png)
 
 ## 字符串练习
 
@@ -672,10 +672,4 @@ for (var i = 0; i < str2.length; i++) {
 
 打印结果：
 
-![](http://img.smyhvae.com/20180202_1540.png)
-
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)
+![](assets/15-内置对象 String：字符串的常见方法/20180202_1540.png)
